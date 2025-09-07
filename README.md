@@ -1,3 +1,3 @@
-# Hello World C
+# GLFW Triangle C
 
-A simple Hello World that generates two numbers and adds them.
+A starting point to bring a triangle to a window using glfw and c
